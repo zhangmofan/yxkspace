@@ -6,7 +6,16 @@
 
 <script>
 export default {
-    name: ''
+    name: '',
+    data() {
+        return {
+            
+        }
+    },
+    methods: {
+        
+    },
+
 }
 </script>
 
