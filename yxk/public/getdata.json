@@ -1,0 +1,485 @@
+[
+  {
+    "area": ["中国","东南亚","东北亚","南亚 西亚","欧洲 美洲","非洲 大洋洲"],
+    "contryList":[ 
+      [
+      {
+        "name": "甘肃",
+        "citryList": [
+          {
+            "扎尕那": "1290"
+          },
+          {
+            "嘉峪关": "939"
+          },
+          {
+            "敦煌": "931"
+          },
+          {
+            "莫高窟": "1251"
+          },
+          {
+            "鸣沙山月牙泉": "1253"
+          },
+          {
+            "张掖": "934"
+          },
+          {
+            "祁连山": "3797"
+          }
+        ]
+      },
+      {
+        "name": "福建",
+        "citryList": [
+          {
+            "厦门": "1290"
+          },
+          {
+            "鼓浪屿": "939"
+          },
+          {
+            "沙坡尾": "931"
+          },
+          {
+            "环岛路": "1251"
+          },
+          {
+            "平潭岛": "1253"
+          },
+          {
+            "火山岛": "934"
+          },
+          {
+            "武夷山": "3797"
+          }
+        ]
+      },
+      {
+        "name": "陕西",
+        "citryList": [
+          {
+            "波浪谷": "1290"
+          },
+          {
+            "延安": "939"
+          },
+          {
+            "秦始皇兵马俑": "931"
+          },
+          {
+            "西安": "1251"
+          },
+          {
+            "汉中天坑": "1253"
+          },
+          {
+            "壶口瀑布": "934"
+          },
+          {
+            "雨岔大峡谷": "3797"
+          }
+        ]
+      },
+      {
+        "name": "云南",
+        "citryList": [
+          {
+            "元阳梯田": "1290"
+          },
+          {
+            "怒江大峡谷": "939"
+          },
+          {
+            "梅里雪山": "931"
+          },
+          {
+            "大理": "1251"
+          },
+          {
+            "丽江": "1253"
+          },
+          {
+            "西双版纳": "934"
+          },
+          {
+            "香格里拉": "3797"
+          },
+          {
+            "普者黑": "3797"
+          }
+        ]
+      },
+      {
+        "name": "贵州",
+        "citryList": [
+          {
+            "梵净山": "1290"
+          },
+          {
+            "黄果树瀑布": "939"
+          },
+          {
+            "西江千户苗寨": "931"
+          },
+          {
+            "肇兴侗寨": "1251"
+          },
+          {
+            "荔波小七孔": "1253"
+          },
+          {
+            "织金洞": "934"
+          },
+          {
+            "乌蒙大草原": "3797"
+          }
+        ]
+      },
+      {
+        "name": "山西",
+        "citryList": [
+          {
+            "平遥古城": "1290"
+          },
+          {
+            "太原": "939"
+          },
+          {
+            "碛口": "931"
+          },
+          {
+            "云冈石窟": "1251"
+          },
+          {
+            "五台山": "1253"
+          }
+        ]
+      },
+      {
+        "name": "浙江",
+        "citryList": [
+          {
+            "吴越古道": "1290"
+          },
+          {
+            "黄龙岛": "939"
+          },
+          {
+            "括苍山": "931"
+          },
+          {
+            "枸杞岛": "1251"
+          },
+          {
+            "岱山岛": "1253"
+          },
+          {
+            "奉化": "934"
+          },
+          {
+            "纪龙山": "3797"
+          }
+        ]
+      },
+      {
+        "name": "新疆",
+        "citryList": [
+          {
+            "赛里木湖": "1290"
+          },
+          {
+            "喀什": "939"
+          },
+          {
+            "吐鲁番": "931"
+          },
+          {
+            "巴音布鲁克": "1251"
+          },
+          {
+            "独库公路": "1253"
+          },
+          {
+            "喀拉峻草原": "934"
+          },
+          {
+            "昭苏": "3797"
+          },
+          {
+            "天山": "3797"
+          }
+        ]
+      },
+      {
+        "name": "西藏",
+        "citryList": [
+          {
+            "羊卓雍措": "1290"
+          },
+          {
+            "拉萨": "939"
+          },
+          {
+            "雅鲁藏布江大峡谷": "931"
+          },
+          {
+            "巴松措": "1251"
+          },
+          {
+            "日喀则": "1253"
+          },
+          {
+            "珠穆朗玛峰": "934"
+          },
+          {
+            "纳木错": "3797"
+          },
+          {
+            "冈仁波齐峰": "934"
+          },
+          {
+            "阿里": "3797"
+          }
+        ]
+      },
+      {
+        "name": "四川",
+        "citryList": [
+          {
+            "稻城亚丁": "1290"
+          },
+          {
+            "色达": "939"
+          },
+          {
+            "四姑娘山": "931"
+          },
+          {
+            "若尔盖大草原": "1251"
+          },
+          {
+            "莲宝叶则": "1253"
+          },
+          {
+            "新都桥": "934"
+          },
+          {
+            "贡嘎神湖": "3797"
+          },
+          {
+            "牛背山": "3797"
+          }
+        ]
+      },
+      {
+        "name": "广西",
+        "citryList": [
+          {
+            "龙脊梯田": "1290"
+          },
+          {
+            "涠洲岛": "939"
+          },
+          {
+            "德天瀑布": "931"
+          },
+          {
+            "桂林": "1251"
+          },
+          {
+            "阳朔": "1253"
+          },
+          {
+            "通灵大峡谷": "934"
+          },
+          {
+            "靖西": "3797"
+          }
+        ]
+      },
+      {
+        "name": "广东",
+        "citryList": [
+          {
+            "潮州古城": "1290"
+          },
+          {
+            "东西冲": "939"
+          },
+          {
+            "广州": "931"
+          },
+          {
+            "长隆野生动物世界": "1251"
+          },
+          {
+            "广州动物园": "1253"
+          },
+          {
+            "小辣甲岛": "934"
+          },
+          {
+            "淇澳岛": "3797"
+          }
+        ]
+      },
+      {
+        "name": "香港",
+        "citryList": [
+          {
+            "麦理浩径": "1290"
+          },
+          {
+            "香港": "939"
+          },
+          {
+            "石澳渔村": "931"
+          },
+          {
+            "塔门岛": "1251"
+          },
+          {
+            "海下湾": "1253"
+          },
+          {
+            "香港地质公园": "934"
+          }
+        ]
+      },
+      {
+        "name": "青海",
+        "citryList": [
+          {
+            "艾肯泉": "1290"
+          },
+          {
+            "茶卡盐湖": "939"
+          },
+          {
+            "可可西里": "931"
+          },
+          {
+            "青海湖": "1251"
+          },
+          {
+            "门源油菜花海": "1253"
+          },
+          {
+            "翡翠湖": "934"
+          }
+        ]
+      }
+    ]
+    ]
+  },
+  {
+    "month": [
+      "1月",
+      " 2月",
+      " 3月",
+      " 4月",
+      " 5月",
+      " 6月",
+      " 7月",
+      " 8月",
+      " 9月",
+      " 10月",
+      " 11月",
+      " 12月"
+    ],
+    "imgList": [
+      {
+        "title": "窃波小七孔",
+        "imgurl": "https://qimg4.youxiake.com/upload/202006/01/19451591000656.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "泸沽湖",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201902/28/92381551334974.png?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "虎啸峡",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201902/28/84041551334695.png?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "花鸟岛",
+        "imgurl": "https://qimg4.youxiake.com/upload/202006/01/19451591000656.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "纪龙山",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201807/04/46521530676622.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "大嵛山岛",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201802/05/80621517830868.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "梵净山",
+        "imgurl": "https://qimg4.youxiake.com/upload/202006/01/28311591001091.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "可可西里",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201802/07/52671517994445.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "敦煌",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201802/07/65471517992405.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/900"
+      },
+      {
+        "title": "若尔盖",
+        "imgurl": "https://qimg4.youxiake.com/upload/202006/01/94911591000931.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "霍城",
+        "imgurl": "https://qimg4.youxiake.com/upload/202006/01/97911590999067.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "云和梯田",
+        "imgurl": "https://qimg4.youxiake.com/upload/202006/01/91791590999693.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      }
+    ]
+  },
+  {
+    "type": [
+      "徒步",
+      " 雪山",
+      " 草原",
+      " 海岛",
+      " 骑行"
+    ],
+    "imgList": [
+      {
+        "title": "武功山",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201903/13/37681552461006.png?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "神农架",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201903/13/27721552460791.png?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "四姑娘山",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201902/22/43831550817392.png?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "微杭古道",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201809/03/53631535967689.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "吴越古道",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201806/28/39601530149262.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "清凉峰",
+        "imgurl": "https://qimg4.youxiake.com/upload/202004/09/84471586426413.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "腾格里沙漠",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201802/07/45791517993346.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      },
+      {
+        "title": "雨崩",
+        "imgurl": "https://gallery.youxiake.com/Public/Data/upload/201802/09/14221518178382.jpg?imageMogr2/thumbnail/!285x160r/strip/gravity/Center/crop/!285x160/quality/90"
+      }
+    ]
+  }
+]
